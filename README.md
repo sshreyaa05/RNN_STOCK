@@ -8,3 +8,6 @@ The RNN model was used for both inline and outline predictions.
 
 ### Conclusion:
 The project involves stock price prediction using RNN and adjusted prices, with predictions made for both short-term and long-term periods.
+
+
+
